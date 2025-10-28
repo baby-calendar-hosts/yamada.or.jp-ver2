@@ -42,7 +42,7 @@
       "package": {
         "name": "koodimonni-plugin-language/breadcrumb-navxt-ja",
         "type": "wordpress-language",
-        "version": "7.3.1",
+        "version": "7.4.1",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/breadcrumb-navxt/{%version}/ja.zip",
@@ -55,7 +55,7 @@
       "package": {
         "name": "koodimonni-plugin-language/classic-editor-ja",
         "type": "wordpress-language",
-        "version": "1.6.6",
+        "version": "1.6.7",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/classic-editor/{%version}/ja.zip",
@@ -68,7 +68,7 @@
       "package": {
         "name": "koodimonni-plugin-language/contact-form-7-ja",
         "type": "wordpress-language",
-        "version": "6.0.5",
+        "version": "6.1.2",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/contact-form-7/{%version}/ja.zip",
@@ -81,7 +81,7 @@
       "package": {
         "name": "koodimonni-plugin-language/custom-post-type-ui-ja",
         "type": "wordpress-language",
-        "version": "1.17.2",
+        "version": "1.18.0",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/custom-post-type-ui/{%version}/ja.zip",
@@ -120,7 +120,7 @@
       "package": {
         "name": "koodimonni-plugin-language/my-calendar-ja",
         "type": "wordpress-language",
-        "version": "3.5.21",
+        "version": "3.6.15",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/my-calendar/{%version}/ja.zip"
@@ -132,7 +132,7 @@
       "package": {
         "name": "koodimonni-plugin-language/snow-monkey-forms-ja",
         "type": "wordpress-language",
-        "version": "10.0.2",
+        "version": "12.0.0",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/snow-monkey-forms/{%version}/ja.zip"
@@ -144,7 +144,7 @@
       "package": {
         "name": "koodimonni-plugin-language/tablepress-ja",
         "type": "wordpress-language",
-        "version": "3.1.1",
+        "version": "3.2.5",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/tablepress/{%version}/ja.zip"
@@ -156,7 +156,7 @@
       "package": {
         "name": "koodimonni-plugin-language/wp-fastest-cache-ja",
         "type": "wordpress-language",
-        "version": "1.3.5",
+        "version": "1.4.1",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/{%version}/ja.zip"
@@ -168,7 +168,7 @@
       "package": {
         "name": "koodimonni-plugin-language/xml-sitemap-feed-ja",
         "type": "wordpress-language",
-        "version": "5.4.9",
+        "version": "5.5.8",
         "dist": {
           "type": "zip",
           "url": "https://downloads.wordpress.org/translation/plugin/xml-sitemap-feed/{%version}/ja.zip"
@@ -205,6 +205,7 @@
     "wpackagist-plugin/adminimize": "*",
     "wpackagist-plugin/breadcrumb-navxt": "*",
     "wpackagist-plugin/classic-editor": "*",
+    "wpackagist-plugin/cloudsecure-wp-security": "*",
     "wpackagist-plugin/contact-form-7": "*",
     "wpackagist-plugin/contact-form-7-multi-step-module": "*",
     "wpackagist-plugin/custom-post-type-permalinks": "*",
@@ -212,14 +213,13 @@
     "wpackagist-plugin/duplicate-post": "*",
     "wpackagist-plugin/flexible-table-block": "*",
     "wpackagist-plugin/instagram-feed": "*",
-    "wpackagist-plugin/limit-login-attempts-reloaded": "*",
-    "wpackagist-plugin/my-calendar": "3.5.21",
+    "wpackagist-plugin/my-calendar": "3.6.15",
     "wpackagist-plugin/post-types-order": "*",
     "wpackagist-plugin/reusable-blocks-extended": "*",
     "wpackagist-plugin/seo-simple-pack": "*",
     "wpackagist-plugin/show-current-template": "*",
     "wpackagist-plugin/snow-monkey-forms": "*",
-    "wpackagist-plugin/tablepress": "3.1.1",
+    "wpackagist-plugin/tablepress": "3.2.5",
     "wpackagist-plugin/taxonomy-terms-order": "*",
     "wpackagist-plugin/tinymce-advanced": "*",
     "wpackagist-plugin/wordpress-importer": "*",
