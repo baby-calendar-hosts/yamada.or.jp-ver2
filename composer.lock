@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "06e1906ede47e7d20004ba382d0dcf39",
+    "content-hash": "75441ae137ee788c9b79e5a9e4c04fa2",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -830,7 +830,7 @@
         },
         {
             "name": "koodimonni-plugin-language/breadcrumb-navxt-ja",
-            "version": "7.3.1",
+            "version": "7.4.1",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/breadcrumb-navxt/{%version}/ja.zip",
@@ -859,7 +859,7 @@
         },
         {
             "name": "koodimonni-plugin-language/contact-form-7-ja",
-            "version": "6.0.5",
+            "version": "6.1.2",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/contact-form-7/{%version}/ja.zip",
@@ -869,7 +869,7 @@
         },
         {
             "name": "koodimonni-plugin-language/custom-post-type-ui-ja",
-            "version": "1.17.2",
+            "version": "1.18.0",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/custom-post-type-ui/{%version}/ja.zip",
@@ -899,7 +899,7 @@
         },
         {
             "name": "koodimonni-plugin-language/my-calendar-ja",
-            "version": "3.5.21",
+            "version": "3.6.15",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/my-calendar/{%version}/ja.zip"
@@ -908,7 +908,7 @@
         },
         {
             "name": "koodimonni-plugin-language/snow-monkey-forms-ja",
-            "version": "10.0.2",
+            "version": "12.0.0",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/snow-monkey-forms/{%version}/ja.zip"
@@ -917,7 +917,7 @@
         },
         {
             "name": "koodimonni-plugin-language/tablepress-ja",
-            "version": "3.1.1",
+            "version": "3.2.5",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/tablepress/{%version}/ja.zip"
@@ -945,7 +945,7 @@
         },
         {
             "name": "koodimonni-plugin-language/wp-fastest-cache-ja",
-            "version": "1.3.5",
+            "version": "1.4.1",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/wp-fastest-cache/{%version}/ja.zip"
@@ -954,7 +954,7 @@
         },
         {
             "name": "koodimonni-plugin-language/xml-sitemap-feed-ja",
-            "version": "5.4.9",
+            "version": "5.5.8",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/xml-sitemap-feed/{%version}/ja.zip"
@@ -2248,6 +2248,24 @@
             "homepage": "https://wordpress.org/plugins/classic-editor/"
         },
         {
+            "name": "wpackagist-plugin/cloudsecure-wp-security",
+            "version": "1.3.19",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cloudsecure-wp-security/",
+                "reference": "tags/1.3.19"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cloudsecure-wp-security.1.3.19.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/cloudsecure-wp-security/"
+        },
+        {
             "name": "wpackagist-plugin/contact-form-7",
             "version": "6.1.2",
             "source": {
@@ -2374,34 +2392,16 @@
             "homepage": "https://wordpress.org/plugins/instagram-feed/"
         },
         {
-            "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.26.23",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.26.23"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.26.23.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/limit-login-attempts-reloaded/"
-        },
-        {
             "name": "wpackagist-plugin/my-calendar",
-            "version": "3.5.21",
+            "version": "3.6.15",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/my-calendar/",
-                "reference": "tags/3.5.21"
+                "reference": "tags/3.6.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/my-calendar.3.5.21.zip"
+                "url": "https://downloads.wordpress.org/plugin/my-calendar.3.6.15.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -2501,15 +2501,15 @@
         },
         {
             "name": "wpackagist-plugin/tablepress",
-            "version": "3.1.1",
+            "version": "3.2.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/tablepress/",
-                "reference": "tags/3.1.1"
+                "reference": "tags/3.2.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/tablepress.3.1.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/tablepress.3.2.5.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
